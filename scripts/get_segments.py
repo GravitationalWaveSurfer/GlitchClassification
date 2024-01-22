@@ -16,5 +16,6 @@ start = df['start'].tolist()
 end = df['end'].tolist()
 
 # Displaying the first few elements of each list as a check
+print('First and last five segments from the .csv file:')
 print(start[:5]) 
 print(end[:5])
