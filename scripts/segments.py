@@ -5,7 +5,7 @@ import get_git_repo_root
 
 def get_list(verbose=False):
     git_parent_directory = get_git_repo_root.repo_root()
-    print(git_parent_directory)
+  #  print(git_parent_directory)
     # File path for the CSV file
     file_path = os.path.join(git_parent_directory,'Dec23_ER-DQstudies_seg.csv')
 
