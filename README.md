@@ -1,8 +1,5 @@
 # GlitchClassification
 
-This project's goal is to classify glitches found in Virgo gravitational wave data. Utilizing advanced data processing and machine learning techniques,
-# GlitchClassification
-
 This project's goal is to classify glitches found in Virgo gravitational wave data. Utilizing advanced data processing and machine learning techniques, it aims to enhance the accuracy and efficiency of gravitational wave data analysis.
 
 ## Contents
